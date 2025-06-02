@@ -14,7 +14,7 @@ Understanding different types of properties in the housing market is essential f
 
 ## 🔍 Dataset
 
-The dataset comes from the **Melbourne Housing Market** (January 2016), scraped from publicly available records on Domain.com.au. It includes details such as:
+The dataset is sourced from Kaggle: [Melbourne Housing Market](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market), originally scraped from publicly available records on Domain.com.au. It contains details such as:
 
 - **Price** (in AUD)
 - **Rooms** (number of rooms)
